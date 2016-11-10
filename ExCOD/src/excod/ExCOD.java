@@ -18,6 +18,7 @@ public class ExCOD {
         // TODO code application logic here
         // Para empezar, hago un commit al principio del proyecto.
         // Después, hago otro commit en el proyecto antes de comenzar con la rama "exp".
+        // Una vez en la rama "exp", efectúo este commit.
     }
     
 }
