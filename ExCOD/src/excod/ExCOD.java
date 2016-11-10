@@ -17,6 +17,7 @@ public class ExCOD {
     public static void main(String[] args) {
         // TODO code application logic here
         // Para empezar, hago un commit al principio del proyecto.
+        // Después, hago otro commit en el proyecto antes de comenzar con la rama "exp".
     }
     
 }
